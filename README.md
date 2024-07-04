@@ -19,7 +19,7 @@ To run this project locally, follow these steps:
 
    ```bash
    git clone <https://github.com/gabrieldreamz/Bluetech-Project.git>
-   cd <bluetech-project>
+   cd <Bluetech-Project>
 
    ```
 
